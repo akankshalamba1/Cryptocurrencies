@@ -41,7 +41,9 @@ Two type of scatter plot were used for visualizarion:
   ![3D-Scatter](https://user-images.githubusercontent.com/111251560/213067359-173bc65a-50e8-4449-ba31-89b507410a85.png)
   
 
-  - Hvplot Scatter
+  - Hvplot table and Scatter plot
+
+  ![del 4](https://user-images.githubusercontent.com/111251560/213067879-3c3ddb48-a3e9-4655-8cc3-098dddc36637.png)
 
   ![hvplot scatter](https://user-images.githubusercontent.com/111251560/213067382-4032df28-2241-46ab-9aa8-3a7dc375fdca.png)
 
