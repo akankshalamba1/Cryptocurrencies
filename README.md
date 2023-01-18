@@ -12,6 +12,7 @@ The data Martha will be working with is not ideal, so it will need to be process
 - Part 3: Clustering Cryptocurrencies Using K-means
 - Part 4: Visualizing Cryptocurrencies Results
 
+[Cryptocurriencies](/Starter_Code/crypto_clustering.ipynb)
 ## Results
 
 - Preprocessing the Data 
